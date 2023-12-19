@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slhjm
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
+- 🌱 I'm junior web developer 
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me jamaisalehjm@gmail.com
 
